@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-ssh",
+  "version": "0.0.1",
+  "description": "This Cordova plugin provides the ability to start an SSH connection and use it as a proxy.  The SSH connection runs in a Service, so it will outlive the main Activity.",
+  "cordova": {
+    "id": "cordova-plugin-ssh",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemasc/cordova-plugin-ssh.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Gokydzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bemasc/cordova-plugin-ssh/issues"
+  },
+  "homepage": "https://github.com/bemasc/cordova-plugin-ssh#readme"
+}
