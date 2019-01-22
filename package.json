@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "name": "cordova-plugin-ssh",
+    "cordova_name": "Cordova SSH Plugin",
+    "description": "A Cordova SSH Plugin based on Ganymed SSH2",
+    "readme": "README.md",
+    "bugs": {
+      "url": "https://github.com/Gydoverflow/cordova-plugin-sshclient/issues",
+      "email": "r3npi2@gmail.com"
+    },  
+    "author": { 
+      "name" : "R3n Pi2",
+      "email" : "gokydzi@gmail.com",
+      "url" : "https://github.com/Gydoverflow/"
+    },  
+    "repository" : { 
+      "type" : "git",
+      "url" : "https://github.com/gydoverflow/cordova-plugin-ssh.git"
+    },  
+    "license": "SEE LICENSE FILE",
+    "keywords": [
+        "cordova",
+        "device",
+        "ssh",
+    ],
+    "platforms": [
+        "android"
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
